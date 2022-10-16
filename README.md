@@ -18,3 +18,9 @@ $ pip install stdiomask
 $ pip install bs4 
 
 $ pip install rich
+
+$ git clone https://github.com/Dindacantim/Alip-XD
+
+$ cd Alip-XD
+
+$ python Alip-XD
