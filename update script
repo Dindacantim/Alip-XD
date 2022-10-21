@@ -1,0 +1,5 @@
+$ cd Alip-XD
+
+$ git pull 
+
+$ python Simple.py
