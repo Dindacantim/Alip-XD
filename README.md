@@ -23,4 +23,4 @@ $ git clone https://github.com/Dindacantim/Alip-XD
 
 $ cd Alip-XD
 
-$ python Simple.
+$ python Simple.py
